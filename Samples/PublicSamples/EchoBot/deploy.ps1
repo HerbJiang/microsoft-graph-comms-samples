@@ -1,4 +1,4 @@
-#requires -PSEdition Core
+# disable requires -PSEdition Core
 
 Param (
     [parameter(mandatory)]
